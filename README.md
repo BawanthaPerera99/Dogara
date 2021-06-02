@@ -1,2 +1,1 @@
-# Dogara
-Dogara is a website for pets.
+TinDog Starting Files
